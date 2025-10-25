@@ -1,4 +1,4 @@
 # first-project
 First Git repo
 <br/>
-Author - Chirag
+Author - Chirag Kapoor
